@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.3.0](https://github.com/3cikl/3cikl.meta/compare/0fdfa974a46e616b5a71832b60eaf2594ad83245..0.3.0) - 2026-04-21
+#### Features
+- (**meta**) add mxsphere repository - ([0fdfa97](https://github.com/3cikl/3cikl.meta/commit/0fdfa974a46e616b5a71832b60eaf2594ad83245)) - [@3cikl](https://github.com/3cikl)
+
+- - -
+
 ## [0.2.0](https://github.com/3cikl/3cikl.meta/compare/e2739bdaa498087ccc2faa03128a069cdb929cd5..0.2.0) - 2026-04-21
 #### Features
 - (**meta**) add vault repository - ([83acadd](https://github.com/3cikl/3cikl.meta/commit/83acadd6aead7bb0eb7e6384572d59bcedcfe247)) - [@3cikl](https://github.com/3cikl)
