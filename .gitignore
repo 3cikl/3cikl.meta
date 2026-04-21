@@ -46,3 +46,4 @@ compose.local.yaml
 
 # meta
 /mnt/password-store/
+/mnt/dotfiles/

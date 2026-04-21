@@ -1,5 +1,6 @@
 {
   "projects": {
-    "mnt/password-store": "https://github.com/3cikl/3cikl.password-store.git"
+    "mnt/password-store": "https://github.com/3cikl/3cikl.password-store.git",
+    "mnt/dotfiles": "https://github.com/3cikl/3cikl.dotfiles.git"
   }
 }
