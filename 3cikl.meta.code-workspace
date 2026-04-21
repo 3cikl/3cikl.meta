@@ -8,6 +8,9 @@
     },
     {
       "path": "mnt/dotfiles"
+    },
+    {
+      "path": "mnt/vault"
     }
   ]
 }
