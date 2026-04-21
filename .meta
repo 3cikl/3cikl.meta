@@ -2,6 +2,7 @@
   "projects": {
     "mnt/password-store": "https://github.com/3cikl/3cikl.password-store.git",
     "mnt/dotfiles": "https://github.com/3cikl/3cikl.dotfiles.git",
-    "mnt/vault": "https://github.com/3cikl/3cikl.vault.git"
+    "mnt/vault": "https://github.com/3cikl/3cikl.vault.git",
+    "mnt/mxsphere": "https://github.com/3cikl/mxsphere.git"
   }
 }
