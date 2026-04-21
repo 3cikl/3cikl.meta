@@ -37,6 +37,9 @@ mise.*.local.toml
 # node modules
 node_modules/
 
+# python
+.venv/
+
 # containerization files
 Containerfile.local
 compose.local.yaml
